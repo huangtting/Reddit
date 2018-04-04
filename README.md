@@ -7,6 +7,7 @@ npm start
 ![reddit](https://raw.githubusercontent.com/huangtting/Blog/master/images/reddit.png)
 
 # 中间件
+![redux](https://raw.githubusercontent.com/huangtting/Blog/master/images/redux.jpg)
 ```
 import thunk from 'redux-thunk'
 import { createLogger } from 'redux-logger'
