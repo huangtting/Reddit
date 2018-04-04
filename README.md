@@ -4,6 +4,7 @@ npm install
 npm start
 ```
 利用Reddit API得到相关文章的标题
+![reddit](https://raw.githubusercontent.com/huangtting/Blog/master/images/reddit.png)
 
 # 中间件
 ```
@@ -139,4 +140,5 @@ redux-thunk使得dispatch可以调用函数，在函数中又可以重新发起d
 
 [浅析`redux-thunk`中间件源码](https://www.jianshu.com/p/a3b9b0958aeb)
 
+[react 实践之 redux applyMiddleware方法详解](https://segmentfault.com/a/1190000008754562)
 
